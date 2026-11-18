@@ -22,7 +22,7 @@ Make a shortlist on a small second screen and hand the filenames to your retouch
 
 ## Example from the emulator
 
-The test used three generated JPEGs. Two frames, 014 and 022, were selected and exported. The original files had the same checksums after the review. The bar only needed a small thumbnail for each image. Three generated JPEG photographs processed by the real Pillow thumbnail and selection pipeline.
+The test used three generated JPEGs. Two frames, 014 and 022, were selected and exported. The original files had the same checksums after the review. The bar only needed a small thumbnail for each image. Pillow generated the thumbnails from the test photos.
 
 ## Set up the source
 
