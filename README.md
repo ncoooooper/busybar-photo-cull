@@ -4,6 +4,20 @@ Review thumbnails from a local photo shoot and export the names you mark for ret
 
 Make a shortlist on a small second screen and hand the filenames to your retouching workflow. Marking a photo updates a separate selection file, so the source photograph stays untouched.
 
+## Screen transitions
+
+Move through the photographs and mark the keepers before exporting their names.
+
+![Photo Cull front display. Move through the photographs and mark the keepers before exporting their names.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Photo Cull rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Mark the first keepers
 
 1. Start the companion in the photo folder and turn the wheel to browse its thumbnails. The rear identifies the file.
@@ -38,6 +52,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
