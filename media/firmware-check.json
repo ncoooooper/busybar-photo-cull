@@ -11,7 +11,7 @@
   "frames": 54,
   "distinct_frames": 16,
   "exit": "App io.ncoooooper.photocull exited: finished; heap peak 79.5 of 128 KiB",
-  "sha256": "75feda5d3c02f17aeae23ede5448c859016801cfa0d3e1f80581cd8edeb42091",
+  "sha256": "225fea8a94cc9c5013f0af89ba0326dda5690128010f7fa26902287936895ae0",
   "interactive": {
     "caption": "KEEP",
     "value": "2",
@@ -40,9 +40,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      15,
-      10
+      3,
+      2
     ],
-    "exit": "App io.btype.photocull exited: finished; heap peak 89.4 of 128 KiB"
+    "exit": "App io.btype.photocull exited: finished; heap peak 87.6 of 128 KiB"
   }
 }
