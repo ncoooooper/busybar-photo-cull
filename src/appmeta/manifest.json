@@ -4,6 +4,6 @@
   "name": "Photo Cull",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Photo Cull",
+  "description": "Review thumbnails from a local photo shoot and export the names you mark for retouching.",
   "author": "ncoooooper"
 }
